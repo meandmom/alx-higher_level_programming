@@ -1,5 +1,7 @@
 #!\bin\bash\python3
+"""Defines a class Square"""
+
+
 class Square:
-    """ Defining class named Squere """
+    """An empty Square class"""
     pass
-   """is empty class"""
