@@ -1,4 +1,4 @@
-#!\bin\bash\python3
+#!/bin/bash/python3
 """Defines a class Square"""
 
 
