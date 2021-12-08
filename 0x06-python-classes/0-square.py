@@ -1,5 +1,5 @@
 #!\bin\bash\python3
-class Squere:
+class Square:
     """ Defining class named Squere """
     pass
    """is empty class"""
