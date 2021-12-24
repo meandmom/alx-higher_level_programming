@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 for a in range(0, 100):
-    if a < 10:
-        print("0{}".format(a), end=", ")
+    if a < 99:
+        print("{:02}".format(a), end=", ")
     else:
-        print("{}\n".format(a), end=", ")
+        print("{}\n".format(a))
